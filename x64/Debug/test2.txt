@@ -1,0 +1,2 @@
+This is a test line.
+Another line with no stars here.
